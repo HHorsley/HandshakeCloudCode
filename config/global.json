@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Handshake": {
+            "applicationId": "HvWy7TDYYgXffalZTlqgRaQisUUz6aw699OSXTeR", 
+            "masterKey": "kwMEBhCHnFBFp1ObJF2d1eWKWjcuHVdrU2preqMd"
+        }, 
+        "_default": {
+            "link": "Handshake"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}
